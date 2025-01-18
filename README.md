@@ -1,6 +1,7 @@
 # cardscanner
 
 A new Flutter project.
+to run the project type command "flutter pub get"
 
 ## Getting Started
 
